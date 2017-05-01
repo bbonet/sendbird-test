@@ -14,7 +14,7 @@ import { MessageComponent } from './message/message.component';
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
